@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd16af1c-5e91-497b-8900-0060da8614ef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\D\Environment\apache-maven-3.6.3-bin\apache-maven-3.6.3\maven-repo" />
+        <option name="userSettingsFile" value="C:\D\Environment\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="1luOPncvguN51gAIwWwqfL8TbYI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../forAutumnTest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.guang.剑指offer46把数字翻译成字符串.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guang.剑指offer46把数字翻译成字符串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\17L1\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd16af1c-5e91-497b-8900-0060da8614ef" name="Default Changelist" comment="" />
+      <created>1608443490555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608443490555</updated>
+      <workItem from="1608443492410" duration="2856000" />
+      <workItem from="1608620034350" duration="2616000" />
+      <workItem from="1608700155260" duration="63000" />
+      <workItem from="1608700250217" duration="11040000" />
+      <workItem from="1609039210592" duration="10004000" />
+      <workItem from="1609297142391" duration="2517000" />
+      <workItem from="1609383663751" duration="2789000" />
+      <workItem from="1609387482597" duration="2290000" />
+      <workItem from="1609576516356" duration="1030000" />
+      <workItem from="1609653388944" duration="1177000" />
+      <workItem from="1609659327859" duration="2025000" />
+      <workItem from="1609759245943" duration="3158000" />
+      <workItem from="1609816999372" duration="663000" />
+      <workItem from="1609916732557" duration="73000" />
+      <workItem from="1609984264120" duration="3280000" />
+      <workItem from="1611394106788" duration="4743000" />
+      <workItem from="1612169031715" duration="6000" />
+      <workItem from="1612514254075" duration="1293000" />
+      <workItem from="1612515731006" duration="6031000" />
+      <workItem from="1613637659694" duration="5506000" />
+      <workItem from="1613821920452" duration="3080000" />
+      <workItem from="1613874361452" duration="5930000" />
+      <workItem from="1613960333387" duration="26000" />
+      <workItem from="1613960551668" duration="6234000" />
+      <workItem from="1614169896239" duration="110000" />
+      <workItem from="1614221087703" duration="3941000" />
+      <workItem from="1614385187938" duration="2359000" />
+      <workItem from="1614407791351" duration="1205000" />
+      <workItem from="1617369749473" duration="8691000" />
+      <workItem from="1617429424371" duration="6223000" />
+      <workItem from="1617516418279" duration="1195000" />
+      <workItem from="1617542115263" duration="6580000" />
+      <workItem from="1617632355989" duration="9508000" />
+      <workItem from="1617717178622" duration="286000" />
+      <workItem from="1617887731890" duration="2620000" />
+      <workItem from="1617890426786" duration="462000" />
+      <workItem from="1617890914654" duration="64000" />
+      <workItem from="1617890985121" duration="159000" />
+      <workItem from="1617891195190" duration="128000" />
+      <workItem from="1617891332261" duration="771000" />
+      <workItem from="1617892182797" duration="516000" />
+      <workItem from="1617892942994" duration="104000" />
+      <workItem from="1617893050139" duration="3515000" />
+      <workItem from="1617945262668" duration="5805000" />
+      <workItem from="1617979944677" duration="2798000" />
+      <workItem from="1618065354417" duration="22000" />
+      <workItem from="1618232237431" duration="4832000" />
+      <workItem from="1618237316943" duration="10846000" />
+      <workItem from="1618290070666" duration="375000" />
+      <workItem from="1618290472640" duration="246000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
