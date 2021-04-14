@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd16af1c-5e91-497b-8900-0060da8614ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode120Triangle/Solution2.java" afterDir="false" />
+    <list default="true" id="cd16af1c-5e91-497b-8900-0060da8614ef" name="Default Changelist" comment="三角形最小路径和">
+      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode121BestTimeToBuyAndSellStock/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode121BestTimeToBuyAndSellStock/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode122BestTimeToBuyAndSellStock2/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode122BestTimeToBuyAndSellStock2/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode123买卖股票的最佳时机3/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode188买卖股票的最佳时机4/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode63不同路径2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/guang/剑指offer58_1/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -173,8 +180,16 @@
       <workItem from="1618290472640" duration="246000" />
       <workItem from="1618302453733" duration="315000" />
       <workItem from="1618302786017" duration="4416000" />
-      <workItem from="1618322212861" duration="1938000" />
+      <workItem from="1618322212861" duration="15236000" />
     </task>
+    <task id="LOCAL-00001" summary="三角形最小路径和">
+      <created>1618324470075</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618324470075</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +206,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="三角形最小路径和" />
+    <option name="LAST_COMMIT_MESSAGE" value="三角形最小路径和" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
