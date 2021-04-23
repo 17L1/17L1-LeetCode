@@ -4,13 +4,18 @@ public class Solution {
     public String reverseWords(String s) {
         s = s.trim();
         StringBuilder ans = new StringBuilder();
-        for (int i = s.length() - 1; i >= 0; i--){
-            int j = i;
-            while (s.charAt(i) != ' ' && i >= 0){
-                i--;
+        int i = s.length()-1;
+        int j = i;
+        while (j >= 0){
+            while (j >= 0 && s.charAt(j) != ' '){
+                j--;
             }
-            ans.append(s.substring(i+1,j+1));
+            ans.append(s.substring(j+1,i+1));
             ans.append(" ");
+            while (j >= 0 && s.charAt(j) == ' '){
+                j--;
+            }
+            i = j;
         }
         return ans.toString().trim();
     }
