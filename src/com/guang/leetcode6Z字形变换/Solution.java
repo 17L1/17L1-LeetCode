@@ -6,10 +6,11 @@ import java.util.List;
 public class Solution {
     public String convert(String s, int numRows) {
         int len = s.length();
-        if (len < 1) {
+        if (len < 1 || numRows < 2) {
             return s;
         }
         List<StringBuilder> res = new ArrayList<>();
+        StringBuilder ans = new StringBuilder("");
         for (int i = 0; i < numRows; i++) {
             res.add(new StringBuilder(""));
         }
@@ -22,6 +23,9 @@ public class Solution {
             }
             i += flag;
         }
-
+        for (StringBuilder str : res) {
+            ans.append(str);
+        }
+        return ans.toString();
     }
 }

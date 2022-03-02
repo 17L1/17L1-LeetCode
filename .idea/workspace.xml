@@ -4,29 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd16af1c-5e91-497b-8900-0060da8614ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AutumnTest/bytedance/question1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AutumnTest/bytedance/question4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AutumnTest/qunaer/question/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/guang/LeetCode1TwoSum/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/guang/LeetCode216组合总和3/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/guang/LeetCode22括号生成/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/guang/LeetCode93复原IP地址/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode2两数相加/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode553最优除法/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode553最优除法/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode553最优除法/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode5最长回文子串/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode5最长回文子串/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode6Z字形变换/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7210bbc3-aa15-4a6e-82b9-146acdceda62.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7210bbc3-aa15-4a6e-82b9-146acdceda62.xml" afterDir="false" />
+    <list default="true" id="cd16af1c-5e91-497b-8900-0060da8614ef" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode7整数反转/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode8字符串转整数/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/sort/归并排序/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/sort/归并排序/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/sort/快速排序/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/sort/快速排序/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/guang/LeetCode146LRU缓存机制/LRUCathe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/guang/LeetCode146LRU缓存机制/LRUCathe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/guang/leetcode3无重复字符的最长子串/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/guang/leetcode3无重复字符的最长子串/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/guang/leetcode60排列序列/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/guang/leetcode60排列序列/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/guang/leetcode6Z字形变换/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/guang/leetcode6Z字形变换/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,7 +257,7 @@
       <workItem from="1645511458150" duration="342000" />
       <workItem from="1645936475302" duration="7075000" />
       <workItem from="1645963625812" duration="5742000" />
-      <workItem from="1646219504857" duration="1220000" />
+      <workItem from="1646219504857" duration="6511000" />
     </task>
     <task id="LOCAL-00001" summary="三角形最小路径和">
       <created>1618324470075</created>
@@ -291,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618403055251</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Default Changelist">
+      <created>1646220905084</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1646220905084</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,7 +300,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="三角形最小路径和" />
     <MESSAGE value="三道股票题，一道反转单词" />
-    <option name="LAST_COMMIT_MESSAGE" value="三道股票题，一道反转单词" />
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
