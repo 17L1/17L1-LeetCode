@@ -10,9 +10,9 @@ public class Solution {
         int[] n = new int[128];
         int res = 1;
         for (int left = 0,right = 0;right < len; right++) {
-            n[charArray[left]]++;
-            if (n[charArray[left]] == 2){
-                while (n[charArray[left]] == 2){
+            n[charArray[right]]++;
+            if (n[charArray[right]] == 2){
+                while (n[charArray[right]] == 2){
                     n[charArray[left]]--;
                     left++;
                 }

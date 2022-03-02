@@ -48,7 +48,8 @@ public class LRUCathe {
             addToHead(newNode);
             if (size > capactity){
                 DoubleList tail = removeTail();
-                map.remove(tail.key);size--;
+                map.remove(tail.key);
+                size--;
             }
         }else {
             node.val = value;

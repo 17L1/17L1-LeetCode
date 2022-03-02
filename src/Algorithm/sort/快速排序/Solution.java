@@ -1,7 +1,5 @@
 package Algorithm.sort.快速排序;
 
-import javax.swing.plaf.ProgressBarUI;
-
 public class Solution {
     public static int[] sortArray(int[] nums){
         int len = nums.length;
