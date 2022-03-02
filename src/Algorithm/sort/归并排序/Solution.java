@@ -8,7 +8,7 @@ public class Solution {
         if (len < 2){
             return nums;
         }
-        mergeSort(nums,0,len-1);
+        mergeSort(nums,0,len - 1);
         return nums;
     }
 

@@ -10,20 +10,31 @@ public class Solution {
         List<List<Integer>> res = new ArrayList<>();
         Deque<Integer> path = new ArrayDeque<>();
         int num = 0;
-        DFS(res,path,n);
-        return res.get(k).toString();
+        boolean[] used = new boolean[n];
+        DFS(res,path,n,used);
+        List<Integer> list = new ArrayList<>(res.get(k));
+        String ans = "";
+        for (Integer i : list){
+            ans+=i;
+        }
+        return ans;
 
     }
 
-    private void DFS(List<List<Integer>> res, Deque<Integer> path, int n) {
+    private void DFS(List<List<Integer>> res, Deque<Integer> path, int n, boolean[] used) {
         if (path.size() == n){
             res.add(new ArrayList<>(path));
             return;
         }
-        for (int i = 1; i <= n ; i++) {
-            path.addLast(i);
-            DFS(res,path,n);
+        for (int i = 0; i < n ; i++) {
+            if (used[i]){
+                continue;
+            }
+            path.addLast(i+1);
+            used[i] = true;
+            DFS(res,path,n, used);
             path.removeLast();
+            used[i] = false;
         }
     }
 }

@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd16af1c-5e91-497b-8900-0060da8614ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode39CombinationSum/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode60排列序列/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode77组合/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode78subSets/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode845数组中的最长山脉/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode90子集2/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/sort/快速排序/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/sort/快速排序/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/guang/剑指offer58_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/guang/剑指offer58_1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithm/sort/归并排序/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/sort/归并排序/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/guang/leetcode60排列序列/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/guang/leetcode60排列序列/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +63,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringTest2021" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
@@ -126,19 +120,6 @@
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -224,7 +205,11 @@
       <workItem from="1618574881001" duration="44000" />
       <workItem from="1618575616763" duration="46000" />
       <workItem from="1618575748674" duration="971000" />
-      <workItem from="1619151177953" duration="1066000" />
+      <workItem from="1619151177953" duration="1461000" />
+      <workItem from="1619668172835" duration="892000" />
+      <workItem from="1621487052515" duration="1846000" />
+      <workItem from="1621845548639" duration="870000" />
+      <workItem from="1631108459551" duration="86000" />
     </task>
     <task id="LOCAL-00001" summary="三角形最小路径和">
       <created>1618324470075</created>

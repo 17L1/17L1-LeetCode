@@ -1,0 +1,2 @@
+package com.guang.leetcode553最优除法;public class Main {
+}
