@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd16af1c-5e91-497b-8900-0060da8614ef" name="Default Changelist" comment="feat: 2022/3/2 模拟">
-      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode13罗马数字转整数/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode14最长公共前缀/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode31下一个排列/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode31下一个排列/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode38外观数列/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/src/com/guang/leetcode43字符串相乘/com/guang/leetcode43字符串相乘/Solution_20220304204423.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/src/com/guang/leetcode58最后一个单词的长度/Solution_20220304204237.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/src/com/guang/leetcode58最后一个单词的长度/Solution_20220304204416.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/src/com/guang/leetcode58最后一个单词的长度/Solution_20220304204417.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/guang/LeetCode71简化路径/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode43字符串相乘/com/guang/leetcode43字符串相乘/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode58最后一个单词的长度/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode66加一/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,9 +55,6 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
-  </component>
   <component name="ProjectId" id="1luOPncvguN51gAIwWwqfL8TbYI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -63,20 +64,21 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringTest2021" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="应用程序.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -160,15 +162,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="应用程序.Main" />
-        <item itemvalue="应用程序.Main (1)" />
-        <item itemvalue="应用程序.Main (2)" />
-        <item itemvalue="应用程序.Solution" />
-        <item itemvalue="应用程序.Solution (2)" />
-      </list>
-    </recent_temporary>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -260,6 +266,8 @@
       <workItem from="1645936475302" duration="7075000" />
       <workItem from="1645963625812" duration="5742000" />
       <workItem from="1646219504857" duration="17626000" />
+      <workItem from="1646393839072" duration="6820000" />
+      <workItem from="1646619333337" duration="1840000" />
     </task>
     <task id="LOCAL-00001" summary="三角形最小路径和">
       <created>1618324470075</created>
@@ -312,8 +320,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="三角形最小路径和" />
     <MESSAGE value="三道股票题，一道反转单词" />
     <MESSAGE value="Default Changelist" />
