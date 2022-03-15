@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd16af1c-5e91-497b-8900-0060da8614ef" name="Default Changelist" comment="feat: 2022/3/2 模拟">
-      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode13罗马数字转整数/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode14最长公共前缀/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode31下一个排列/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode31下一个排列/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/guang/leetcode38外观数列/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cd16af1c-5e91-497b-8900-0060da8614ef" name="Default Changelist" comment="feat: 2022/3/3 模拟" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -259,7 +252,7 @@
       <workItem from="1645511458150" duration="342000" />
       <workItem from="1645936475302" duration="7075000" />
       <workItem from="1645963625812" duration="5742000" />
-      <workItem from="1646219504857" duration="17626000" />
+      <workItem from="1646219504857" duration="17652000" />
     </task>
     <task id="LOCAL-00001" summary="三角形最小路径和">
       <created>1618324470075</created>
@@ -296,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646228341714</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat: 2022/3/3 模拟">
+      <created>1646291226079</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1646291226079</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,7 +318,8 @@
     <MESSAGE value="三道股票题，一道反转单词" />
     <MESSAGE value="Default Changelist" />
     <MESSAGE value="feat: 2022/3/2 模拟" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 2022/3/2 模拟" />
+    <MESSAGE value="feat: 2022/3/3 模拟" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 2022/3/3 模拟" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
