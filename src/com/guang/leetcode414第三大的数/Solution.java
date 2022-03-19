@@ -3,13 +3,12 @@
  * @Author: lilongguang
  * @Date: 2022-03-18 10:12:41
  * @LastEditors: lilongguang
- * @LastEditTime: 2022-03-18 10:21:25
+ * @LastEditTime: 2022-03-18 12:59:58
  */
 package com.guang.leetcode414第三大的数;
 
 import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Set;
+
 
 public class Solution {
     public int thirdMax(int[] nums) {
