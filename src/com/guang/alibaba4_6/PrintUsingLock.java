@@ -39,6 +39,8 @@ public class PrintUsingLock {
                         threadLock.lock();
                         try {
                             if (count>102){
+
+
                                 return;
                             }
                             if (count%4==1){
